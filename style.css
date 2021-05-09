@@ -1,0 +1,14 @@
+body{
+background-image: url("background.jpg");
+background-size: cover;
+}
+
+.heading{
+width: 85%;
+font-size: 17px;
+}
+
+canvas{
+box-shadow: 5px 5px 18px blue;
+}
+
