@@ -26,7 +26,7 @@ r = random(255);
 g = random(255);
 b = random(255);
 OBJ_D.detect(Video, gotresults);
-for(i = 0; i < obects.length; i++){
+for(i = 0; i < objects.length; i++){
 document.getElementById("S").innerHTML = "Status : Detected objects";   
 document.getElementById("O").innerHTML = "Objects detected : "+objects.length;
 fill(r, g, b);
